@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-Description: dotCMS - Tuckey Rewrite Rules example
+Bundle-Activator: com.dotcms.tuckey.Activator
+Bundle-Vendor: dotCMS
+Bundle-DocURL: https://dotcms.com/
+Import-Package: *;version=0
+

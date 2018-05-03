@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-Description: dotCMS - Tuckey Rewrite Rules fragment
+Bundle-SymbolicName: com.dotcms.forcehttps.fragment
+Export-Package: com.dotcms.repackage.org.apache.logging.log4j;version=
+ 0,com.dotcms.repackage.org.apache.logging.log4j.core;version=0,com.do
+ tcms.repackage.org.apache.logging.log4j.spi;version=0,com.dotcms.repa
+ ckage.org.tuckey.web.filters.urlrewrite;version=0,com.dotmarketing.lo
+ ggers;version=0,com.dotmarketing.osgi;version=0,org.osgi.framework;ve
+ rsion=0
+Bundle-Name: Tuckey Rewrite Rules fragment
+Bundle-Version: 0.2
+Bundle-ManifestVersion: 2
+Bundle-Vendor: dotCMS
+Bundle-DocURL: https://dotcms.com/
+Fragment-Host: system.bundle; extension:=framework
+
