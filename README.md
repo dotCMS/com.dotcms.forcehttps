@@ -1,7 +1,7 @@
 
 # README
 
-This bundle programatically adds a url redirect rule that forces all traffic to HTTPS
+This bundle programatically adds a tucky redirect rule that forces all traffic to HTTPS
 
 ## How to build this example
 
